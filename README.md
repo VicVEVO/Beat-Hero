@@ -1,1 +1,1 @@
-# Beat-Hero
+# Beat Hero

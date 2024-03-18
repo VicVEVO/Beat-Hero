@@ -1,20 +1,8 @@
-// use midir::{MidiInput, MidiOutput, Ignore};
-use std::error::Error;
+use rodio::{source::SineWave, OutputStream, Source};
 
-fn main() -> Result<(), Box<dyn Error>> {
-    let midi_out = MidiOutput::new("My Output")?;
-    let midi_in = MidiInput::new("My Input")?;
-    midi_in.ignore(Ignore::None);
-
-    println!("Ports de sortie MIDI disponibles:");
-    for i in 0..midi_out.port_count() {
-        println!("{}: {}", i, midi_out.port_name(i)?);
-    }
-
-    println!("\nPorts d'entrée MIDI disponibles:");
-    for i in 0..midi_in.port_count() {
-        println!("{}: {}", i, midi_in.port_name(i)?);
-    }
-
-    Ok(())
+fn main() {
+    let (_stream, stream_handle) = OutputStream::try_default().unwrap();
+    let source = SineWave::new(1000).take_duration(std::time::Duration::from_secs(2));
+    stream_handle.play_raw(source.convert_samples()).unwrap();
+    std::thread::sleep(std::time::Duration::from_secs(2));
 }

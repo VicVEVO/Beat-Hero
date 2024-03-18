@@ -1,0 +1,10 @@
+/home/vic_pabo/Documents/Projects/Beat-Hero/beat_hero/target/debug/deps/libsymphonia_utils_xiph-2b8d04554f551a70.rmeta: /home/vic_pabo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/lib.rs /home/vic_pabo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/flac/mod.rs /home/vic_pabo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/flac/metadata.rs /home/vic_pabo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/vorbis/mod.rs
+
+/home/vic_pabo/Documents/Projects/Beat-Hero/beat_hero/target/debug/deps/libsymphonia_utils_xiph-2b8d04554f551a70.rlib: /home/vic_pabo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/lib.rs /home/vic_pabo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/flac/mod.rs /home/vic_pabo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/flac/metadata.rs /home/vic_pabo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/vorbis/mod.rs
+
+/home/vic_pabo/Documents/Projects/Beat-Hero/beat_hero/target/debug/deps/symphonia_utils_xiph-2b8d04554f551a70.d: /home/vic_pabo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/lib.rs /home/vic_pabo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/flac/mod.rs /home/vic_pabo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/flac/metadata.rs /home/vic_pabo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/vorbis/mod.rs
+
+/home/vic_pabo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/lib.rs:
+/home/vic_pabo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/flac/mod.rs:
+/home/vic_pabo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/flac/metadata.rs:
+/home/vic_pabo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/symphonia-utils-xiph-0.5.4/src/vorbis/mod.rs:
